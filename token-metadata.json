@@ -1,0 +1,9 @@
+{
+  "name": "USD",
+  "symbol": "DUSDT",
+  "decimals": 6,
+  "chainId": 11155111,
+  "address": "0x6499cEC5b8dd66Eeae44184E675b6D4CF33E156b",
+  "logoURI": "https://raw.githubusercontent.com/awwaltaniitanii2-cpu/dusdt-token-assets/main/dusdt-logo%20%282%29.png",
+  "description": "Independent fixed-supply Sepolia testnet token. No dollar backing or peg is asserted."
+}
